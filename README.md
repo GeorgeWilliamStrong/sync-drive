@@ -6,6 +6,7 @@ Automatically synchronise, process, and index files within a Google Drive direct
 
 1. **Git**: Ensure Git is installed on your system.
 2. **Conda**: Make sure you have Conda (or MiniConda) installed. You can download it from [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
+3. **Credentials**: You will also need access to the `credentials.json` file to authenticate.
 
 ## Setup Instructions
 
