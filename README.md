@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ### 3. Make the Script Executable
 
 ```bash
-chmod +x script.py
+chmod +x main.py
 ```
 
 ### 4. Create the Synchronization Script
@@ -49,7 +49,7 @@ source ~/.zshrc
 conda activate drive_sync
 
 cd $REPO_DIR
-python script.py
+python main.py
 
 echo "Synchronisation complete"
 EOF
