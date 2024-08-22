@@ -1,2 +1,6 @@
-# sync-drive
-Automatically synchronise a Google drive account with Instill Catalog
+# Google Drive Synchronisation with Instill Catalog
+
+Automatically synchronise files within a Google Drive with Instill Catalog.
+
+
+
