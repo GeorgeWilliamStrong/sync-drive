@@ -56,6 +56,8 @@ EOF
 chmod +x sync.sh
 ```
 
+Note that if you are using `bashrc`, you will need to replace `.zshrc` with `.bashrc` in the above snippet.
+
 ### 5. Setup the Cron Job
 
 Schedule the synchronization script to run at regular intervals. For example, to run the script every minute:
