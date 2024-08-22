@@ -1,6 +1,6 @@
 # Google Drive Synchronisation with Instill Catalog
 
-Automatically synchronise files within a Google Drive with Instill Catalog.
+Automatically synchronise, process, and index files within a Google Drive directly to Instill Catalog.
 
 ## Prerequisites
 
